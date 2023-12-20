@@ -7,11 +7,11 @@ const ColorCard=(props)=>{
         <div style={{
             height:"300px",
             width:"250px",
-            border:"2px solid black",
+            border:"2pxgit add solid #ccc",
             margin:"20px",
             display:"flex",
             flexWrap:"wrap",
-            boxShadow:"2px 2px 2px 2px black , -2px -2px 2px 2px 2px black"
+            boxShadow:"0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"
           
           
         }}>
