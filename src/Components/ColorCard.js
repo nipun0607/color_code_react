@@ -25,7 +25,11 @@ const ColorCard=(props)=>{
 
         </div>
         <div>
-        <h4>{props.code}</h4>
+        <h4 style={{
+            color:props.code,
+            fontSize:"1.2rem",
+            fontWeight:"800"
+        }}>{props.code}</h4>
         <p style={{
             color:props.code,
             fontSize:"1.2rem",
