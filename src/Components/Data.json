@@ -1,0 +1,53 @@
+ [
+{
+"colorCode":"#FF6663",
+"name":"PINK"
+
+},
+
+{
+    "colorCode":"#333333",
+    "name":"GRAY"
+},
+
+{
+    "colorCode":"#000000",
+    "name":"BLACK"
+},
+
+{
+    "colorCode":"#38BB15",
+    "name":"GREEN"
+},
+
+{
+    "colorCode":"#C90B0B",
+    "name":"RED"
+},
+
+{
+    "colorCode":"#FF7F00",
+    "name":"ORANGE"
+},
+
+{
+    "colorCode":"#FFF500",
+    "name":"YELLOW"
+},
+
+{
+    "colorCode":"#CCCCCC",
+    "name":"LIGHT GRAY"
+},
+
+{
+    "colorCode":"#7E40A1",
+    "name":"PURPLE"
+},
+
+{
+    "colorCode":"#00FFFF",
+    "name":"CYAN"
+}
+
+]
